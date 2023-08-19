@@ -1,28 +1,19 @@
-> :warning: **Start Announcement**
->
-# WAIUA has left active development. It won't stop working immediately, as WAIUA is completely standalone and communicates directly with Riot Servers. However, like it has happened before, changes to Riot's architecture will eventually break WAIUA's functionality. Full story on my Discord server
->
-> :warning: **End Announcement**
-
 <p align="center">
-  <a href="https://github.com/Soneliem/WAIUA">
+  <a href="https://github.com/BennyExtreme/WAIUA">
     <img src="Screenshots/logo.png" alt="Logo" width="80" height="80">
   </a>
 </p>
 <h3 align="center">WAIUA</h3>
 <h4 align="center">Who Am I Up Against?</h4>
-<a href="https://waiua.sonel.dev"><h1 align="center">waiua.sonel.dev</h1></a>
+<a href="https://waiua.bennyextreme.tk"><h1 align="center">waiua.bennyextreme.tk</h1></a>
 
   <p align="center">
     A Windows application to view player ranks and other info in a live Valorant Match</p>
     <p align="center">
-    <a href="https://discord.gg/X7CYCeZSRK">
-      <img alt="Discord" src="https://img.shields.io/discord/881790284613185546?color=blue&label=discord">
-    </a>
-    <img alt="GitHub" src="https://img.shields.io/github/license/Soneliem/WAIUA?color=blue">
-    <img alt="GitHub all releases" src="https://img.shields.io/github/downloads/Soneliem/WAIUA/total?color=blue">
+    <img alt="GitHub" src="https://img.shields.io/github/license/BennyExtreme/WAIUA?color=blue">
     <a href="https://github.com/Soneliem/WAIUA/releases/latest/download/WAIUA.exe">
-      <img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/Soneliem/WAIUA">
+	  <img alt="GitHub downloads counter" src="https://img.shields.io/github/downloads/BennyExtreme/WAIUA/total?color=blue">
+      <img alt="GitHub latest release" src="https://img.shields.io/github/v/release/BennyExtreme/WAIUA">
     </a>
     </p>
   <br />
@@ -47,13 +38,18 @@
     </li>
     <li><a href="#usage">Usage</a></li>
     <li><a href="#roadmap-and-known-bugs">Roadmap And Known Bugs</a></li>
-    <li><a href="#built-with">Built With</a></li>
+    <li>
+	  <a href="#built-with">Built With</a>
+	  <ul>
+	    <li><a href="#packages">Packages</a></li>
+	  </ul>
+	</li>
+	<li><a href="#why-this-app-exists">Why This App Exists</a></li>
     <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#Sponsors">Sponsors</a></li>
-    <li><a href="#Translations">Translations</a></li>
+    <li><a href="#translations">Translations</a></li>
     <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgements">Acknowledgements</a></li>
-    <li><a href="#DISCLAIMER">Disclaimer</a></li>
+    <li><a href="#disclaimer">Disclaimer</a></li>
   </ol>
 </details>
 
@@ -86,19 +82,18 @@ To get the app up and running follow these simple steps.
 
 ### Installation
 
-1. Download [the latest installer](https://github.com/Soneliem/WAIUA/releases/latest/download/WAIUA.exe)
+1. Download [the latest installer](https://github.com/BennyExtreme/WAIUA/releases/latest/download/WAIUA.exe)
 2. Run the .exe (If a blue box saying "Windows protected your PC" shows up, click `More Info` and then `Run Anyway`)
 3. Follow the steps to install WAIUA
 
 ## Usage
 
 1. Open the app
-2. WAIUA will automatically check for new matches or wait for a match like a good boi
-3. Win games (unless you find out you're playing against a smurf. In that case RIP your RR)
+2. WAIUA will automatically check for a match and give you the info of it
 
 ## Roadmap and Known Bugs
 
-Please check the [issues tab](https://github.com/Soneliem/WAIUA/issues) before making a new issue. My [Discord Server](https://discord.gg/X7CYCeZSRK) has a list of known bugs and upcoming features.
+Please check the [issues tab](https://github.com/BennyExtreme/WAIUA/issues) before making a new issue.
 
 ## Built With
 
@@ -106,47 +101,33 @@ Please check the [issues tab](https://github.com/Soneliem/WAIUA/issues) before m
 * [C#](https://docs.microsoft.com/en-us/dotnet/csharp/)
 * [.NET 6.0](https://dotnet.microsoft.com/)
 
-I knew none of these things before making this lol
-
-#### Packages that I used/ recommend
+#### Packages
 
 * [RestSharp](https://restsharp.dev/) for API requests
-* [System.Text.Json](https://docs.microsoft.com/en-us/dotnet/api/system.text.json) to deserialise JSON. Source generators are a Godsend
-* [Windows Community Toolkit MVVM](https://docs.microsoft.com/en-us/windows/communitytoolkit/mvvm/introduction) for MVVM. Ty for Source Generators too
+* [System.Text.Json](https://docs.microsoft.com/en-us/dotnet/api/system.text.json) to deserialise JSON.
+* [Windows Community Toolkit MVVM](https://docs.microsoft.com/en-us/windows/communitytoolkit/mvvm/introduction) for MVVM.
 * [AutoUpdater.NET](https://github.com/ravibpatel/AutoUpdater.NET) for auto updates
 * [Inno Setup](https://jrsoftware.org/isinfo.php) to install WAIUA
-* [FontAwesome](https://fontawesome.com/license) for icons. I'm also supposed say that I changed the colours so here it is
+* [FontAwesome](https://fontawesome.com/license) for icons.
 
-## Why I Made This
+## Why This App Exists
 
-The main reason I made this was to detect smurfs. This app basically settles the debates between team members or the enemy. The set of available features was chosen carefully to maintain the competitive integrity of the game. Many suggestions that I get are declined due to this (unless a certain "competing" verified app implements it).
-
-Another reason to making this was that I wanted some experience with .NET and GUI apps. This application uses C# as the backend, WPF as the frontend and .NET as the framework. I knew none of these when I began, so this was a fun journey. I've gained alot of experice of how to and how not to (mostly the latter) use WPF and C#.
+The main reason was to detect smurfs. The set of available features was chosen carefully to maintain the competitive integrity of the game.
 
 ## Contributing
 
 I welcome any sort of contribution. Please remember that translations are managed externally as mentioned below.
 
-## Sponsors
-
-This project is sponsored by:
-
-<!-- sponsors --><!-- sponsors -->  
-
-Thank you for your support! Any donation of $5 and over will get you into the app's main page. Sponnsors of $10 or more are automatically added above.
-
 ## Translations
 
-WAIUA Supports full localization and instructions to help with translations can be found in [Localization](https://github.com/Soneliem/WAIUA/blob/master/Localization.md)
+WAIUA Supports full localization and instructions to help with translations can be found in [Localization](https://github.com/BennyExtreme/WAIUA/blob/master/Localization.md)
 
 ## Contact
 
-**Official Website:** [waiua.sonel.dev](https://waiua.sonel.dev)  
-**Discord:** Soneliem#4194  
-**Email:** [waiua@sonel.dev](mailto:waiua@sonel.dev)  
-**Project Link:** [https://github.com/Soneliem/WAIUA](https://github.com/Soneliem/WAIUA)  
-**Discord Server:**  
-[![Discord Banner 2](https://discordapp.com/api/guilds/881790284613185546/widget.png?style=banner2)](https://discord.gg/X7CYCeZSRK)  
+**Official Website:** [waiua.bennyextreme.tk](https://waiua.bennyextreme.tk)
+**Discord:** BennyExtreme_
+**Email:** [bennygames.yt@gmail.com](mailto:bennygames.yt@gmail.com)
+**Project Link:** [https://github.com/BennyExtreme/WAIUA](https://github.com/BennyExtreme/WAIUA)
 
 ## Acknowledgements
 
