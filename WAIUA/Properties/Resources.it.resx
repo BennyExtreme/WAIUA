@@ -142,7 +142,7 @@
     <value>Accesso</value>
   </data>
   <data name="SettingsInfoExplanation2" xml:space="preserve">
-    <value>Tutte le comunicazioni riguardanti le tue credenziali sono effettuate direttamente con i server Riot con nessuna memorizzazione delle password effettuata localmente o online.</value>
+    <value>Tutte le comunicazioni riguardanti le tue credenziali sono effettuate direttamente con i server Riot e non viene effettuata alcuna memorizzazione delle password localmente o online.</value>
   </data>
   <data name="AuthStatusTitle" xml:space="preserve">
     <value>Stato dell&apos;autenticazione</value>
@@ -166,7 +166,8 @@
     <value>Non autenticato</value>
   </data>
   <data name="Translator" xml:space="preserve">
-    <value>Tradotto in italiano da CyberKoreTv</value>
+    <value>Tradotto in italiano da CyberKoreTv e BennyExtreme</value>
+    <comment>Fuzzy</comment>
   </data>
   <data name="RefreshMatch" xml:space="preserve">
     <value>Clicca per aggiornare la tua partita</value>
