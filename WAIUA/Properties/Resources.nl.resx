@@ -143,6 +143,7 @@
   </data>
   <data name="SettingsInfoExplanation2" xml:space="preserve">
     <value>Alle communicatie betreffende jouw aanmeldgegevens gaat rechtstreeks naar de Riot servers zonder opslag van jouw paswoord lokaal of online.</value>
+    <comment>Fuzzy</comment>
   </data>
   <data name="AuthStatusTitle" xml:space="preserve">
     <value>Authenticatie Status</value>
@@ -167,6 +168,7 @@
   </data>
   <data name="Translator" xml:space="preserve">
     <value>Vertaald in het Nederlands door Jeff</value>
+    <comment>Fuzzy</comment>
   </data>
   <data name="RefreshMatch" xml:space="preserve">
     <value>Klik om Match te Herladen</value>
