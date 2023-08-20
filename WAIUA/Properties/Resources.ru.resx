@@ -143,6 +143,7 @@
   </data>
   <data name="SettingsInfoExplanation2" xml:space="preserve">
     <value>Все взаимодействия относительно ваших учетных данных, осуществляются напрямую с серверами RIOT, при этом пароли не хранятся ни локально, ни в Интернете.</value>
+    <comment>Fuzzy</comment>
   </data>
   <data name="AuthStatusTitle" xml:space="preserve">
     <value>Статус аутентификации</value>
@@ -167,6 +168,7 @@
   </data>
   <data name="Translator" xml:space="preserve">
     <value>Переведено на русский Язык ZzyzxFox и DXGames</value>
+    <comment>Fuzzy</comment>
   </data>
   <data name="RefreshMatch" xml:space="preserve">
     <value>Нажмите, чтобы обновить матч</value>
