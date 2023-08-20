@@ -143,6 +143,7 @@
   </data>
   <data name="SettingsInfoExplanation2" xml:space="preserve">
     <value>Tất cả dữ liệu về tài khoản sẽ được chuyển trực tiếp về máy chủ Riot, ứng dụng và tác giả không lưu trữ bất kỳ thông tin nào về tài khoản của bạn.</value>
+    <comment>Fuzzy</comment>
   </data>
   <data name="AuthStatusTitle" xml:space="preserve">
     <value>Tình trạng xác thực</value>
@@ -167,6 +168,7 @@
   </data>
   <data name="Translator" xml:space="preserve">
     <value>Dịch sang tiếng Việt bởi Ozymo</value>
+    <comment>Fuzzy</comment>
   </data>
   <data name="RefreshMatch" xml:space="preserve">
     <value>Làm mới ngay</value>
