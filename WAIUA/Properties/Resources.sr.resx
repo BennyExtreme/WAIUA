@@ -143,6 +143,7 @@
   </data>
   <data name="SettingsInfoExplanation2" xml:space="preserve">
     <value>Sve komunikacije u pogledu tvojih akreditiva obavlja se direktno sa Riot serverima bez skladištenja lozinki lokalno ili onlajn.</value>
+    <comment>Fuzzy</comment>
   </data>
   <data name="AuthStatusTitle" xml:space="preserve">
     <value>Status autentikacije</value>
@@ -167,6 +168,7 @@
   </data>
   <data name="Translator" xml:space="preserve">
     <value>Prevedeno na Srpski od strane icedancer#0001</value>
+    <comment>Fuzzy</comment>
   </data>
   <data name="RefreshMatch" xml:space="preserve">
     <value>Klikni da osvežiš meč</value>
