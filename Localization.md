@@ -10,10 +10,10 @@ Change this to:
 If there is already a name there, simply add yours to the end.
 - Please try to only add generic languages such as English(en) rather than English-United States(en-US)
 
-## How to Contribute using [POEditor](https://poeditor.com/join/project?hash=eDxQpoYC9q)
+## How to Contribute using [POEditor](https://poeditor.com/join/project/DqAujoteTh)
 POEditor lets people collaboratively edit translations, supports auto-translations, quality checks, etc. It's very easy to use and lets me monitor/help people.
 ### Steps:
-- Access the website [here](https://poeditor.com/join/project?hash=eDxQpoYC9q)
+- Access the website [here](https://poeditor.com/join/project/DqAujoteTh)
 - Select the languages you want to help translate and press "Join Translation"
   - If it re-directs you to the home page click on "WAIUA"
   - You can add another language by requesting it (It automatically accepts)
@@ -23,8 +23,12 @@ POEditor lets people collaboratively edit translations, supports auto-translatio
 - After being proof-read, your changes will be pushed to the GitHub repo and included in the next release
 
 ## Credits:
+**English:**
+- Soneliem
+- BennyExtreme
+
 **German:**
-- CemsA
+- lolostill
 - NNebus
   
 **Arabic:**
@@ -47,8 +51,8 @@ POEditor lets people collaboratively edit translations, supports auto-translatio
 - cheemonster
   
 **Italian:**
-- SimpleBonsai
 - CyberKoreTv
+- BennyExtreme
   
 **Portuguese:**
 - castrom4
@@ -60,6 +64,7 @@ POEditor lets people collaboratively edit translations, supports auto-translatio
   
 **Korean:**
 - Ramon
+- Heart
   
 **Dutch:**
 - Jeff
