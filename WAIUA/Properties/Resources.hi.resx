@@ -143,6 +143,7 @@
   </data>
   <data name="SettingsInfoExplanation2" xml:space="preserve">
     <value>आपके क्रेडेंशियल्स के बारे में सभी संचार सीधे Riot सर्वर के साथ किया जाता है, जिसमें पासवर्ड का कोई भंडारण स्थानीय या ऑनलाइन नहीं किया जाता है.</value>
+    <comment>Fuzzy</comment>
   </data>
   <data name="AuthStatusTitle" xml:space="preserve">
     <value>प्रमाणीकरण कि स्थिति</value>
@@ -167,6 +168,7 @@
   </data>
   <data name="Translator" xml:space="preserve">
     <value>हिंदी में अनुवादित cheemonster द्वारा</value>
+    <comment>Fuzzy</comment>
   </data>
   <data name="RefreshMatch" xml:space="preserve">
     <value>मैच को ताज़ा करने के लिए क्लिक करें</value>
