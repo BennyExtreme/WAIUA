@@ -143,6 +143,7 @@
   </data>
   <data name="SettingsInfoExplanation2" xml:space="preserve">
     <value>所有您的信息是直接通过RIOT服务器的，不会在本地或网上储存密码。</value>
+    <comment>Fuzzy</comment>
   </data>
   <data name="AuthStatusTitle" xml:space="preserve">
     <value>登录状态</value>
@@ -167,6 +168,7 @@
   </data>
   <data name="Translator" xml:space="preserve">
     <value>Translated into Chinese By zDragone</value>
+    <comment>Fuzzy</comment>
   </data>
   <data name="RefreshMatch" xml:space="preserve">
     <value>点击以更新比赛</value>
