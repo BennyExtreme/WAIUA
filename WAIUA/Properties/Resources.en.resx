@@ -142,7 +142,7 @@
     <value>Login</value>
   </data>
   <data name="SettingsInfoExplanation2" xml:space="preserve">
-    <value>All communication regarding your credentials is done directly with Riot servers with no storage of passwords being done locally or online.</value>
+    <value>All communication regarding your credentials is done directly with the Riot servers, and no password storage is done locally or online.</value>
   </data>
   <data name="AuthStatusTitle" xml:space="preserve">
     <value>Authentication Status</value>
@@ -166,7 +166,7 @@
     <value>Not Authenticated</value>
   </data>
   <data name="Translator" xml:space="preserve">
-    <value>Translated into English By Soneliem</value>
+    <value>Translated into English By Soneliem and BennyExtreme</value>
     <comment>Fuzzy</comment>
   </data>
   <data name="RefreshMatch" xml:space="preserve">
