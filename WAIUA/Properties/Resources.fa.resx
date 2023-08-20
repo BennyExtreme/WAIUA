@@ -143,6 +143,7 @@
   </data>
   <data name="SettingsInfoExplanation2" xml:space="preserve">
     <value>تمام ارتباطات مربوط به اعتبار شما مستقیما توسط سرور Riot بدون ذخیره رمز عبوردر کامپیوتر یا آنلاین انجام شده است.</value>
+    <comment>Fuzzy</comment>
   </data>
   <data name="AuthStatusTitle" xml:space="preserve">
     <value>بررسی وضعیت هویت</value>
@@ -167,6 +168,7 @@
   </data>
   <data name="Translator" xml:space="preserve">
     <value>ترجمه شده به فارسی توسط 1798#Kourosh</value>
+    <comment>Fuzzy</comment>
   </data>
   <data name="RefreshMatch" xml:space="preserve">
     <value>برای تازه کردن مسابقه اینجا کلیک کنید</value>
