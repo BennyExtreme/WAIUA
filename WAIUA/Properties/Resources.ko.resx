@@ -167,7 +167,7 @@
     <value>인증 실패</value>
   </data>
   <data name="Translator" xml:space="preserve">
-    <value>한국어 변역 ramon,Heart</value>
+    <value>한국어 변역 ramon, Heart</value>
     <comment>Fuzzy</comment>
   </data>
   <data name="RefreshMatch" xml:space="preserve">
