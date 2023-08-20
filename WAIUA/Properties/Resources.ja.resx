@@ -143,6 +143,7 @@
   </data>
   <data name="SettingsInfoExplanation2" xml:space="preserve">
     <value>アカウントに関する全ての情報はRiotのサーバーで直接処理されており、ローカルもしくはオンラインでもパスワードは保管されていません。</value>
+    <comment>Fuzzy</comment>
   </data>
   <data name="AuthStatusTitle" xml:space="preserve">
     <value>認証ステータス</value>
@@ -167,6 +168,7 @@
   </data>
   <data name="Translator" xml:space="preserve">
     <value>日本語翻訳: Aron, nepixjp</value>
+    <comment>Fuzzy</comment>
   </data>
   <data name="RefreshMatch" xml:space="preserve">
     <value>クリックで試合を更新</value>
