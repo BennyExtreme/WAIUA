@@ -143,6 +143,7 @@
   </data>
   <data name="SettingsInfoExplanation2" xml:space="preserve">
     <value>All kommunikation som handlar om ditt inlogg är gjort direkt via Riots servrar utan någon lagring av lösenord gjort lokalt eller online.</value>
+    <comment>Fuzzy</comment>
   </data>
   <data name="AuthStatusTitle" xml:space="preserve">
     <value>Autentiserings status</value>
@@ -167,6 +168,7 @@
   </data>
   <data name="Translator" xml:space="preserve">
     <value>Översatt till Svenska Av Xosiation</value>
+    <comment>Fuzzy</comment>
   </data>
   <data name="RefreshMatch" xml:space="preserve">
     <value>Klicka För Att Uppdatera Match</value>
