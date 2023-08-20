@@ -143,6 +143,7 @@
   </data>
   <data name="SettingsInfoExplanation2" xml:space="preserve">
     <value>Alt kommunikation vedrørende dine login/kodeord kører direkte igennem Riot servere med ingen lagring af dit login/kodeord lokalt eller online.</value>
+    <comment>Fuzzy</comment>
   </data>
   <data name="AuthStatusTitle" xml:space="preserve">
     <value>Autenticitet Status</value>
@@ -167,6 +168,7 @@
   </data>
   <data name="Translator" xml:space="preserve">
     <value>Oversat til dansk af r3verse</value>
+    <comment>Fuzzy</comment>
   </data>
   <data name="RefreshMatch" xml:space="preserve">
     <value>Tryk for at Opdatere Kampen</value>
